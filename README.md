@@ -1,4 +1,4 @@
-# FTPL - My FTP Like Protocol
+# My FTP Like Custom Protocol
 
 > My implementation of FTP both Client and Server in Python3.
 
